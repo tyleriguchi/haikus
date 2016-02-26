@@ -1,0 +1,16 @@
+{
+  "name": "haikus",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "immutable": "^3.7.6",
+    "react": "^0.14.7",
+    "react-native": "^0.20.0",
+    "react-redux": "^4.4.0",
+    "redux": "^3.3.1",
+    "syllable": "^0.1.4"
+  }
+}
